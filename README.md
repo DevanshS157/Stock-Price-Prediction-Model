@@ -18,7 +18,7 @@ Everything lives in a single Jupyter notebook—no paid data, no black boxes.
 
 ## 🚀 Run in 30 s
 ```bash
-git clone https://github.com/devanshs157/1day-stock-predictor.git
+git clone https://github.com/devanshs157/stock-price-prediction-model.git
 cd 1day-stock-predictor
 pip install -r requirements.txt
 jupyter notebook TATASTEEL_1day_predictor.ipynb
@@ -50,4 +50,4 @@ PRs welcome—let’s learn together!
 
 ---
 
-*Live HTML report* 👉 https://devanshs157.github.io/1day-stock-predictor/
+*Live HTML report* 👉 https://devanshs157.github.io/stock-price-prediction-model/
