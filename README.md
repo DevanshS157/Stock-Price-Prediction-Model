@@ -50,4 +50,4 @@ PRs welcome—let’s learn together!
 
 ---
 
-*Live HTML report* 👉 https://devanshs157.github.io/stock-price-prediction-model/
+*Live HTML report* 👉 https://devanshs157.github.io/Stock-Price-Prediction-Model/
